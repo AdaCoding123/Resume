@@ -1,27 +1,17 @@
-# 软件工程师简历
+# Résumé
+### 宏
+- `\name`: 姓名
+- `\contactInfo`: 联系信息, 需要三项信息，分别是{邮箱}{手机号}{个人主页}
+- `\basicContactInfo`: 简要的联系信息, 需要 项信息, 分别是{邮箱}{手机号}, 没有个人主页的用这个
+- `\section`: 用于分节, 如教育背景, 实习/项目经历等
+- `\subsection`: 用于小节标题, 无日期选项
+- `\datedsubsection`: 用于小节标题, 简历中使用最广，第二项为时间区间，自动右对齐
+- `\itemize`: 清单列表，简历中应用最广
+- `\enumerate`: 枚举列表，数字标号
 
+### FontAwesome
 
-Download my resume **[download](https://github.com/zhenzhencai/Resume-FontEnd/raw/master/fontend-resume-zhenzhencai.pdf)**
-
-Visit my interview materials **[Go->](https://github.com/zhenzhencai/FontEndInterview)**
-
-## Samples
-
-<img src="fontend-resume-zhenzhencai.png" alt="my resume" width="800px">
-
-## Requirements and Compilation
-
-* pdflatex + biber + pdflatex
-* AltaCV uses [`fontawesome`](http://www.ctan.org/pkg/fontawesome) and [`academicons`](http://www.ctan.org/pkg/academicons); they're included in both TeX Live 2016 and MikTeX 2.9.
-* Loading `academicons` is optional: enable it by adding the `academicons` option to `\documentclass`.
-* Can now be compiled with pdflatex, XeLaTeX and LuaLaTeX!
-* However if you're using `academicons`, you _must_ use either XeLaTeX or LuaLaTeX. If the doc then compiles but the icons don't show up in the output PDF, try compiling with LuaLaTeX instead.
-* The samples here use the [Lato](http://www.latofonts.com/lato-free-fonts/) font.
-
-## source
-
-Template source [link](https://www.overleaf.com/latex/templates/recreating-business-insiders-cv-of-marissa-mayer/gtqfpbwncfvp)
+首先在 [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/) 上选中自己想使用的图标(暂不支持 alias)，然后在 [fontawesome.sty](https://github.com/billryan/resume/blob/zh_CN/fontawesome.sty) 中找到相应的宏, 将其作为普通文本一样使用。
 
 
 
-Copyright (c) 2019-present ZhenzhenCai

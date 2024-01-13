@@ -1,0 +1,148 @@
+% !TEX program = xelatex
+
+\documentclass{resume}
+\usepackage{graphicx}
+\usepackage{tabu}
+\usepackage{multirow}
+\usepackage[utf8]{inputenc}  
+\usepackage{zh_CN-Adobefonts_external} % 
+\usepackage{linespacing_fix} % disable extra space before next section
+\usepackage{cite}
+\usepackage{subfig}   %并排图片宏包
+\usepackage{float}    %图片浮动位置
+
+\begin{document}
+\pagenumbering{gobble} % suppress displaying page number
+
+\begin{minipage}{0.8\textwidth}
+ \fontsize{11pt}{0}{
+  姓名：\textbf{李英子} \hspace{3.05cm} 年龄：24  \\
+  电话：15799662885 \hspace{2.1cm}  Email：wangyingzics@163.com \\
+  \textbf{主修课程}
+ }
+  \begin{normalsize}
+    \begin{itemize}[parsep=0.5ex]
+      \item 数学：离散数学、高等xxxx、高等数学、高等xxxx、高等数学
+      \item 计算机：计算机xxxx、计算机xxxx（ML）、计算机xxxx(NLP)、计算机xxxx（KG）、计算机xxxx(DM)、数据结构、计算机xxxx、计算机xxxx、计算机网络
+    \end{itemize}
+  \end{normalsize}
+\end{minipage}
+\begin{minipage}{0.2\textwidth}
+\centering
+\includegraphics[height=1.2in,]{resume/pic/pic.jpg}
+\end{minipage}
+
+\section{教育背景}
+\begin{normalsize}
+  \begin{itemize}[parsep=0.5ex]
+    \item {2020.09 -- 2023.07}\hspace{1cm}北京邮电大学计算机学院  \hspace{1cm} 计算机科学与技术  \hspace{1.4cm} 硕士
+    \item {2015.09 -- 2020.07}\hspace{1cm}北京邮电大学计算机学院  \hspace{1cm} 计算机科学与技术 \hspace{1.4cm} 学士
+  \end{itemize}
+\end{normalsize}
+
+
+\section{专业技能}
+\begin{normalsize}
+  \begin{itemize}
+    \item 熟悉 Node.js 开发，熟练使用 npm，webpack，gulp等工具。熟悉前端性能的优化，熟悉使用 Chrome，Safari等前端调试工具。
+    \item 熟悉Node.js以及V8的性能和稳定性优化，能对系统整体性能进行评估，解决内存瓶颈。
+    \item 熟练使用Git,熟悉团队协作流程，有开源社区交流、Linux运维和部署经验。
+    \item 熟悉模块化、前端编译和构建工具，熟练运用主流的移动端JS库和开发框架，并深入理解其设计原理，例如：Zepto、React等。
+
+  \end{itemize}
+\end{normalsize}
+
+% \section{\faUsers\ 工作经历}
+% \datedsubsection{\textbf{天水师范学院文物与博物馆学系}\hspace{1cm}教师}{2015.09 -- 2019.08}
+% \begin{onehalfspacing}
+%     \begin{itemize}
+%       \begin{large}
+%         \item 承担化学与文物、博物馆藏品管理与保护、计算机辅助技术与文物保护、中国文化遗产保护概论等课程教学。
+%         \item 赴新疆昌吉州带队支教半年。
+%       \end{large}
+%     \end{itemize}
+% \end{onehalfspacing}
+
+
+\section{项目经历}
+\subsection{{2021.11 -- 2022.02} \hspace{2cm}\textbf{DRG采集系统和数据分析系统-省部级重点项目}}
+\fontsize{11pt}{0}{项目描述：采用前后端相结合的技术分析并展示重点人物与重点事件。}
+% \subsection{项目描述：采用前后端相结合的技术分析并展示重点人物与重点事件。}
+    \begin{normalsize}
+      \begin{itemize}
+        \item 完成 DRG 采集系统设计, 完成 DRG 数据分析系统设计和其前端开发与部署工作。
+        \item 实验室横向课题, 采集医疗数据, 通过数据分析为国家医保投入做技术支持和追溯。
+        \item 相关技术: Spring /Vue.js/DevOps 
+        \end{itemize}
+    \end{normalsize}
+
+\subsection{{2021.08 -- 2021.10} \hspace{2cm}\textbf{施工团队协作系统 Plate 项目负责人-省部级重点项目}}
+\fontsize{11pt}{0}{项目描述：采用组件式的新型开发技术分析追踪热点案件的传播路径，预测添加新案件。}
+    \begin{normalsize}
+      \begin{itemize}
+        \item 土木工程管理平台, 用来帮助施工人员进行现场照片采集, 任务发布和工程管理。
+        \item 完成原型设计, 数据库设计, 网站脚手架搭建, 响应式布局实现和网站部署等工作。
+        \item 相关技术: Node.js/Git/ MySQL  
+        \end{itemize}
+    \end{normalsize}
+
+\subsection{{2021.06 -- 2021.08} \hspace{2cm}\textbf{国家互联网应急中心云平台管理系统-所级项目}}
+\fontsize{11pt}{0}{项目描述：整理不同类别算法，各自进行封装，提供算法调用接口，训练模型并返回模型测试指标。}
+    \begin{normalsize}
+      \begin{itemize}
+        \item 完成 OpenS的虚拟机、数据库和容器等资源, 还包括计费和预警。
+        \item 结合使用 xx，实现了 app 登录和个人资料的自动填充，提高了多少的转化率。
+        \item 相关技术: Smarty/SVN/SaltStack  
+      \end{itemize}
+    \end{normalsize}
+
+\subsection{{2021.06 -- 2021.08} \hspace{2cm}\textbf{国家互联网应急中心云平台管理系统-所级项目}}
+\fontsize{11pt}{0}{项目描述：整理不同类别算法，各自进行封装，提供算法调用接口，训练模型并返回模型测试指标。}
+    \begin{normalsize}
+      \begin{itemize}
+        \item 完成 OpenS的虚拟机、数据库和容器等资源, 还包括计费和预警。
+        \item 结合使用 xx，实现了 app 登录和个人资料的自动填充，提高了多少的转化率。
+        \item 相关技术: Smarty/SVN/SaltStack  
+      \end{itemize}
+    \end{normalsize}
+
+% \section{\faBook\ 学术成果}
+% \datedline{\textit{\nth{1} Prize}, Award on xxx }{Jun. 2013}
+% \datedline{Other awards}{2015}
+% \begin{itemize}[parsep=0.5ex]
+%   \begin{large}
+%       \item Hongying Zhang, Dawa Shen, Zhiguo Zhang, Qinglin Ma. Characterization of degradation and iron deposits of the wood of Nanhai I shipwreck[J]. Heritage Science, 2022, 10(1): 1-13.  (中科院二区，SCIE和AHCI双检索，IF= 2.843)
+%   \end{large}
+% \end{itemize}
+
+
+
+
+% \section{\faKey\ 专业培训}
+% \begin{itemize}[parsep=0.5ex]
+%   \begin{large}
+%     \item 2023.04，参加国家文物局中国文化遗产公开课—博物馆研学师资线上培训班，获得证书(NO.202303020237)。
+%   \end{large}
+% \end{itemize}
+
+
+\section{奖项荣誉}
+% \datedline{\textit{\nth{1} Prize}, Award on xxx }{Jun. 2013}
+% \datedline{Other awards}{2015}
+\begin{normalsize}
+  \begin{itemize}[parsep=0.5ex]
+    \item 2023-2024年，北京邮电大学开源软件协会负责人, 组织企业沙龙活动和开源项目  
+    \item 2020-2021年，北京邮电大学党委宣传部官微技术部负责人, 负责设计和排版相关工作  
+    \item 2020-2021年，获得北京邮电大学“优秀共青团干部”、“北京邮电大学三好学生”。
+  \end{itemize}
+\end{normalsize}
+
+\section{自我评价}
+\begin{itemize}
+  \begin{normalsize}
+      \item 简历的制作过程考验了一个人的两个能力，逻辑能力和细节能力。写好一份简历，有很多技巧，排版，量化数据等，但有一点最重要的是，自身要有实力。
+  \end{normalsize}
+\end{itemize}
+
+
+\end{document}
