@@ -258,26 +258,12 @@
 * [【备战面试5】如果面试官问你“你有什么问题问我吗？”时，你该如何回答](docs/essential-content-for-interview/PreparingForInterview/如果面试官问你“你有什么问题问我吗？”时，你该如何回答.md)
 * [【备战面试6】美团面试常见问题总结（附详解答案）](docs/essential-content-for-interview/PreparingForInterview/美团面试常见问题总结.md)
 
-### 常见面试题总结
-
-* [第一周（2018-8-7）](docs/essential-content-for-interview/MostCommonJavaInterviewQuestions/第一周（2018-8-7）.md) (为什么 Java 中只有值传递、==与equals、 hashCode与equals)
-* [第二周（2018-8-13）](docs/essential-content-for-interview/MostCommonJavaInterviewQuestions/第二周(2018-8-13).md)(String和StringBuffer、StringBuilder的区别是什么？String为什么是不可变的？、什么是反射机制？反射机制的应用场景有哪些？......)
-* [第三周（2018-08-22）](docs/java/这几道Java集合框架面试题几乎必问.md) （Arraylist 与 LinkedList 异同、ArrayList 与 Vector 区别、HashMap的底层实现、HashMap 和 Hashtable 的区别、HashMap 的长度为什么是2的幂次方、HashSet 和 HashMap 区别、ConcurrentHashMap 和 Hashtable 的区别、ConcurrentHashMap线程安全的具体实现方式/底层具体实现、集合框架底层数据结构总结）
-* [第四周(2018-8-30).md](docs/essential-content-for-interview/MostCommonJavaInterviewQuestions/第四周(2018-8-30).md) （主要内容是几道面试常问的多线程基础题。）
 
 
 
 
 [1]: https://github.com/pengMaster/BestNote/blob/master/docs/android/AndroidNote/SourceAnalysis/%E8%87%AA%E5%AE%9A%E4%B9%89View%E8%AF%A6%E8%A7%A3.md        "自定义View详解" 
-[2]: https://github.com/pengMaster/BestNote/blob/master/docs/android/AndroidNote/SourceAnalysis/Activity%E7%95%8C%E9%9D%A2%E7%BB%98%E5%88%B6%E8%BF%87%E7%A8%8B%E8%AF%A6%E8%A7%A3.md  "Activity界面绘制过程详解" 
-[3]: https://github.com/pengMaster/BestNote/blob/master/docs/android/AndroidNote/SourceAnalysis/Activity%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md    "Activity启动过程"
-[4]: https://github.com/pengMaster/BestNote/blob/master/docs/android/AndroidNote/SourceAnalysis/Android%20Touch%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E8%AF%A6%E8%A7%A3.md    "Android Touch事件分发详解"
-[5]: https://github.com/pengMaster/BestNote/blob/master/docs/android/AndroidNote/SourceAnalysis/AsyncTask%E8%AF%A6%E8%A7%A3.md   "AsyncTask详解"
-[6]: https://github.com/pengMaster/BestNote/blob/master/docs/android/AndroidNote/SourceAnalysis/butterknife%E6%BA%90%E7%A0%81%E8%AF%A6%E8%A7%A3.md   "butterknife源码详解"
-[7]: https://github.com/pengMaster/BestNote/blob/master/docs/android/AndroidNote/SourceAnalysis/InstantRun%E8%AF%A6%E8%A7%A3.md   "InstantRun详解"
-[8]: https://github.com/pengMaster/BestNote/blob/master/docs/android/AndroidNote/SourceAnalysis/ListView源码分析.md   "ListView源码分析"
-[9]: https://github.com/pengMaster/BestNote/blob/master/docs/android/AndroidNote/SourceAnalysis/VideoView%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md   "VideoView源码分析"
-[10]: https://github.com/pengMaster/BestNote/blob/master/docs/android/AndroidNote/SourceAnalysis/View%E7%BB%98%E5%88%B6%E8%BF%87%E7%A8%8B%E8%AF%A6%E8%A7%A3.md   "View绘制过程详解"
+[2]: https://github.com/pengMaster/BestNote/blob/master/docs/android/AndroidNote/SourceAnalysis/View%E7%BB%98%E5%88%B6%E8%BF%87%E7%A8%8B%E8%AF%A6%E8%A7%A3.md   "View绘制过程详解"
 [11]: https://github.com/pengMaster/BestNote/tree/master/docs/android/AndroidNote//SourceAnalysis/Netowork   "网络部分"
 [12]: https://github.com/pengMaster/BestNote/blob/master/docs/android/AndroidNote/SourceAnalysis/Netowork/HttpURLConnection%E8%AF%A6%E8%A7%A3.md   "HttpURLConnection详解"
 [13]: https://github.com/pengMaster/BestNote/blob/master/docs/android/AndroidNote/SourceAnalysis/Netowork/HttpURLConnection%E4%B8%8EHttpClient.md   "HttpURLConnection与HttpClient"
