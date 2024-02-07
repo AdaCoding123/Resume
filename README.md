@@ -112,23 +112,6 @@
 * [Android图像处理 - 高斯模糊的原理及实现](https://mp.weixin.qq.com/s?__biz=MzI2MTU3MTE4NQ==&mid=2247483896&idx=1&sn=50c61e2c78aa610a1944be6a89bd75e5&chksm=ea5916e6dd2e9ff0a62af64c7f345ffb5c6dafdb65847b757b99afcc6fed8e1270e915dbcb25&mpshare=1&scene=23&srcid=1001DxwdQpiMwea74mczpSw8#rd)
 * [Android实战——GreenDao3.2的使用，爱不释手](https://mp.weixin.qq.com/s/4Nx2DacsK65O5LanPZUszA)
 * [Realm for Android详细教程](http://www.jianshu.com/p/28912c2f31db#)
-* [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
-* [Android 谈谈自动化测试](https://mp.weixin.qq.com/s/-0e1wd2iveQPMWgGFcmOwQ)
-* [检查app是否具有通知栏权限](docs/android/AndroidNote/Android进阶/检查app是否有推送权限.md)
-* [Android中图片压缩分析（上）](https://mp.weixin.qq.com/s/QZ-XTsO7WnNvpnbr3DWQmg)
-* [Android Studio3.0更新之路（遇坑必入）](http://www.jianshu.com/p/15afb8234d19)
-* [Android Studio3.0正式版填坑路](http://www.jianshu.com/p/9b25087a5d7d)
-* [Android混合编程：WebView实践](https://juejin.im/post/59f17a7051882546d71e91a7)
-* [runOnUiThread 、Handler.post、View.post之间的区别](https://blog.csdn.net/dengpeng_/article/details/78804404)
-* [理解 Activity.runOnUiThread](https://www.jianshu.com/p/e39449026f21)
-* [说说 getMainLooper](http://www.icodeyou.com/2015/10/11/2015-10-11-getMainLooper/)
-* [Android 探究 LayoutInflater setFactory](https://blog.csdn.net/lmj623565791/article/details/51503977)
-* [巧用ViewPager 打造不一样的广告轮播切换效果](https://blog.csdn.net/lmj623565791/article/details/51339751)
-* [为RecyclerView打造通用Adapter 让RecyclerView更加好用](https://blog.csdn.net/lmj623565791/article/details/51118836)
-* [MNCrashMonitor 监听程序崩溃日志,直接页面展示崩溃日志列表](http://www.wanandroid.com/blog/show/2207)
-* [『进阶之路』—— 线程池](http://www.wanandroid.com/blog/show/2264)
-* [从json文件到炫酷动画-Lottie实现思路和源码分析](https://www.jianshu.com/p/81be1bf9600c)
-* [Lottie动画库 Android 端源码浅析](http://chenhaohui.com/2017/03/13/sd/)
 
 ### Gradle相关
 
@@ -138,13 +121,7 @@
 * [Android Dex分包之旅](http://yydcdut.com/2016/03/20/split-dex/)
 * [美团Android DEX自动拆包及动态加载简介](https://tech.meituan.com/mt-android-auto-split-dex.html)
 * [gradle简单入门系列](http://www.cnblogs.com/davenkin/p/gradle-learning-1.html)
-* [Gradle简单配置](https://mp.weixin.qq.com/s/1UHcYOudViMhpUYeREZzGA)
-* [Android 如何编写基于编译时注解的项目](https://blog.csdn.net/lmj623565791/article/details/51931859)
-* [Gradle 完整指南（Android）](https://www.jianshu.com/p/9df3c3b6067a)
-* [NDK-JNI开发入门教程项目](https://github.com/pengMaster/NDKJniDemo)
-* [深入理解Android之Gradle Groovy](https://blog.csdn.net/innost/article/details/48228651)
-* [Groovy 闭包](https://www.jianshu.com/p/6dc2074480b8)
-* [要点提炼| Gradle指南](https://www.jianshu.com/p/1274c1f1b6a4)
+
 * [Gradle专题][39]
 * [发布library到Maven仓库][40]
 
@@ -153,14 +130,7 @@
 * [自定义View入门](docs/android/AndroidNote/Android自定义View/自定义View入门.md)
 * [自定义view详细教程](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547668&idx=1&sn=b2667c46188c6674c90aa72c2fba4719&scene=21#wechat_redirect)
 * [自定义ViewGroup入门](docs/android/AndroidNote/Android自定义View/自定义ViewGroup入门.md)
-* [Android事件分发机制](docs/android/AndroidNote/Android自定义View/Android事件分发机制.md)
-* [CameraView](docs/android/AndroidNote/Android自定义View/自定义View——CameraView.md)
-* [CheckView](docs/android/AndroidNote/Android自定义View/自定义View——CheckView.md)
-* [CircleView](docs/android/AndroidNote/Android自定义View/自定义View——CircleView.md)
-* [FlowLayout](docs/android/AndroidNote/Android自定义View/自定义View——FlowLayout.md)
-* [PieView](docs/android/AndroidNote/Android自定义View/自定义View——PieView.md)
-* [SlideslipListView](docs/android/AndroidNote/Android自定义View/自定义view——sideslipListView.md)
-* [二阶贝塞尔曲线](docs/android/AndroidNote/Android自定义View/二阶贝塞尔曲线.md)
+
 * [三阶贝塞尔曲线](docs/android/AndroidNote/Android自定义View/三阶贝塞尔曲线.md)
 * [贝塞尔曲线Demo](https://github.com/linsir6/mCustomView/tree/master/BezierDemo)
 * [具有弹性的小球](https://github.com/linsir6/mCustomView/tree/master/MagicCircle)
@@ -170,12 +140,7 @@
 * **Android常见设计模式**
   * [观察者模式](https://blog.csdn.net/chengyuqiang/article/details/79222294)
   * [策略模式](https://github.com/pengMaster/strategyMode)
-  * [建造者模式](https://www.jianshu.com/p/154948d5adc6)
-  * [适配器模式](https://blog.csdn.net/u012583459/article/details/47079529)
-  * [代理模式](https://blog.csdn.net/u012583459/article/details/47079529)
-  * [工厂模式](https://blog.csdn.net/u012583459/article/details/47079549)
-  * [单例模式](https://blog.csdn.net/u012583459/article/details/47079549)
-  * [命令模式](https://blog.csdn.net/u012583459/article/details/47079549)
+49)
 
 
     
