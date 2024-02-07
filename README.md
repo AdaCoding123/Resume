@@ -44,7 +44,9 @@
     - [算法](#算法)
 
 
-## Android
+## resume_CN_photo  带图片的中文简历
+
+## resume_CN_photo  不带图片的中文简历
 
 ### 基础知识
 
