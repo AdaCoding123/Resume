@@ -14,7 +14,8 @@
 ## 无图简历
 - resume_CN_nophoto.tex文件
 
-![image](https://github.com/AdaCoding123/Resume/assets/72744840/95b1f0b7-0f41-40dd-8b40-1452904a7ecb)
+![image](https://github.com/AdaCoding123/Resume/assets/72744840/13d2d1ba-4a1c-4007-adfe-d5cc03bd4b47)
+![image](https://github.com/AdaCoding123/Resume/assets/72744840/1edd1f11-e1d0-41dc-b8c5-ea4012ef3a63)
 
 
 ## 简历资源搜集
