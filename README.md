@@ -10,7 +10,7 @@
 
 
 ## 有图简历
-### resume_CN_photo
+### resume_CN_photo.tex文件
 
 ![image](https://github.com/AdaCoding123/Resume/assets/72744840/937b896a-25e5-40fd-a4e7-5df28b593e89)
 
@@ -18,7 +18,7 @@
 
 
 ## 无图简历
-### resume_CN_nophoto
+### resume_CN_nophoto.tex文件
 
 ![image](https://github.com/AdaCoding123/Resume/assets/72744840/95b1f0b7-0f41-40dd-8b40-1452904a7ecb)
 
