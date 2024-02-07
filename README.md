@@ -20,6 +20,12 @@
 ## 简历资源搜集
 * [一网打尽简历模板和书写工具！geekcompany极客优才开源项目库](https://github.com/geekcompany/ResumeSample)
 * [手把手教你用Markdown写一份高质量的简历](https://github.com/pengMaster/BestNote/blob/master/docs/essential-content-for-interview/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E7%94%A8Markdown%E5%86%99%E4%B8%80%E4%BB%BD%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E7%AE%80%E5%8E%86.md)
+* [用LaTeX制作优雅的中文个人简历，适合IT从业者](https://github.com/FengMengZhao/LaTeX_generate_Chinese_resume?tab=readme-ov-file)
+* [A collection of LaTeX thesis templates and more in GitHub](https://github.com/hantang/latex-templates)
+* [Awesome CV is LaTeX template for your outstanding job application](https://github.com/posquit0/Awesome-CV)
+* [支持 Markdown 和富文本的在线简历排版工具](https://github.com/mdnice/markdown-resume)
+* [An elegant \LaTeX\ résumé template](https://github.com/billryan/resume)
+* [适合中文的简历模板收集](https://github.com/dyweb/awesome-resume-for-chinese)
 
 
 
