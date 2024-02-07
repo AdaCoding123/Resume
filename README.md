@@ -5,6 +5,8 @@
 
 - [简历-有图片](#有图简历)
 - [简历-无图片](#无图简历)
+- [简历资源搜集](#简历资源搜集)
+
 
 
 ## 有图简历
@@ -20,7 +22,7 @@
 
 ![image](https://github.com/AdaCoding123/Resume/assets/72744840/95b1f0b7-0f41-40dd-8b40-1452904a7ecb)
 
-## 简历资源整合
+## 简历资源搜集
 * [如何理解 Transform API](https://juejin.im/entry/59776f2bf265da6c4741db2b)
 * [如何理解 Transform API](https://juejin.im/entry/59776f2bf265da6c4741db2b)
 * [如何理解 Transform API](https://juejin.im/entry/59776f2bf265da6c4741db2b)
