@@ -4,19 +4,13 @@
 ## 目录
 
 - [简历-有图片](#简历-有图片）)
+- [网络协议](#网络)
     - [基础](#基础知识)
     - [进阶](#进阶)
     - [Gradle相关](#Gradle相关)
     - [自定义View](#自定义View)
     - [插件化相关](#插件化相关)
-    - [热修复相关](#热修复相关)
-    - [编译器相关](#编译器相关)
-    - [框架源码分析](#框架源码分析)
-    - [性能优化](#性能优化)
-    - [Android常见设计模式](#Android常见设计模式) 
-    - [音视频开发](#音视频开发)    
-    - [开源框架](#开源框架)
-    - [应用发布](#应用发布)
+
     - [打包](#打包)  
     - [原生功能讲解](docs/android/AndroidNote/READMENote.md)    
 - [resume_CN_nophoto（不带图片的中文简历）](#resume_CN_nophoto（不带图片的中文简历）)
@@ -58,19 +52,7 @@ resume_CN_photo
 
 
 
-### 基础知识
 
-* [RecyclerView的使用](docs/android/AndroidNote/Android基础/RecyclerView的简介.md)
-* [Android获取SHA1](docs/android/AndroidNote/Android基础/Android获取SHA1.md)
-* [Recyclerview和Listview的异同.md](docs/android/AndroidNote/Android进阶/Recyclerview和Listview的异同.md)
-* [初识ConstraintLayout](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548068&idx=1&sn=f750ae79c9458f89c3cf85f7573ba579&scene=21#wechat_redirect)
-* [TabLayout记录](docs/android/AndroidNote/Android基础/tablayout记录.md)
-* [用SpannableString打造绚丽多彩的文本显示效果](http://www.jianshu.com/p/84067ad289d2)
-* [解析ConstraintLayout的性能优势](https://mp.weixin.qq.com/s/gGR2itbY7hh9fo61SxaMQQ)
-* [Android新特性介绍，ConstraintLayout完全解析](https://blog.csdn.net/guolin_blog/article/details/53122387)
-* [Android新特性介绍，ConstraintLayout完全解析](https://blog.csdn.net/guolin_blog/article/details/53122387)
-* [Android 一个无限循环滚动的卡片式ViewPager](https://blog.csdn.net/qq_30552993/article/details/76208535)
-* [Android 中获取控件宽和高的方法（详细解析）](https://blog.csdn.net/CodeIsPoisonous/article/details/54316025)
 
 ### 进阶
 
