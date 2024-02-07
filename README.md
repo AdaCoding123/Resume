@@ -13,7 +13,6 @@
 
     - [打包](#打包)  
     - [原生功能讲解](docs/android/AndroidNote/READMENote.md)    
-- [resume_CN_nophoto（不带图片的中文简历）](#resume_CN_nophoto（不带图片的中文简历）)
     - [基础](#基础)
     - [容器](#容器)
     - [并发](#并发)
@@ -39,7 +38,7 @@
 
 
 ## 有图简历
-resume_CN_photo
+### resume_CN_photo
 
 ![image](https://github.com/AdaCoding123/Resume/assets/72744840/937b896a-25e5-40fd-a4e7-5df28b593e89)
 
@@ -47,7 +46,7 @@ resume_CN_photo
 
 
 ## 无图简历
-resume_CN_nophoto
+### resume_CN_nophoto
 
 ![image](https://github.com/AdaCoding123/Resume/assets/72744840/95b1f0b7-0f41-40dd-8b40-1452904a7ecb)
 
