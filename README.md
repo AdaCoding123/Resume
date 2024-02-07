@@ -1,14 +1,5 @@
 <h1 align="center">程序员简历制作 </h1>
 
-<!--| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ | Ⅹ | Ⅹ |
-| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|:------:|
-| Flutter[:iphone:](#Flutter)| Android[:pencil2:](#Android) | Java[:coffee:](#Java)|Kotlin[:unlock:](#Kotlin) | 面试[:memo:](#面试指南) |网络[:cloud:](#网络协议)| 操作系统 [:computer:](#操作系统)| 系统设计[:bulb:](#系统设计)| 工具[:wrench:](#工具)| 数据库[:floppy_disk:](#数据库)| 算法[:pencil2:](#数据结构与算法) |  TODO学习清单[:page_facing_up:](#TODO学习清单) |-->
-
-| Flutter| Android | Java | Kotlin | &nbsp;面试&nbsp; | 网络 | 系统 | 系统设计 | &nbsp;工具&nbsp; | 数据库 | 算法 |TODO |
-| :--------:| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|:------:|
-| [ :iphone:](#Flutter)| [:pencil2:](#Android) | [:coffee:](#Java)|[:unlock:](#Kotlin) | [:memo:](#面试指南) |[:cloud:](#网络)|  [:computer:](#操作系统)| [:bulb:](#系统设计)| [:wrench:](#工具)| [:floppy_disk:](#数据库)| [:pencil2:](#数据结构与算法) | [:page_facing_up:](#TODO学习清单) |
-
-<br>
 
 ## 目录
 
@@ -51,24 +42,7 @@
 - [数据结构与算法](#数据结构与算法)
     - [数据结构](#数据结构)
     - [算法](#算法)
-- [数据库](#数据库)
-    - [MySQL](#mysql)
-    - [Redis](#redis)
-    - [数据库系统原理](docs/notes/数据库系统原理.md)
-    - [SQL](docs/notes/SQL.md)
-    - [Leetcode-Database 题解](docs/notes/Leetcode-Database%20题解.md)
-- [系统设计](#系统设计)
-    - [设计模式](#设计模式)
-    - [常用框架](#常用框架)
-    - [数据通信](#数据通信)
-    - [网站架构](#网站架构)
-    - [攻击技术](docs/notes/攻击技术.md)
-- [工具](#工具)
-    - [Git](#git)
-    - [Docker](#Docker)
-    - [构建工具](docs/notes/构建工具.md)
-    - [正则表达式](docs/notes/正则表达式.md)
-- [常见问题](docs/android/interview/README.md)
+
 
 ## Android
 
