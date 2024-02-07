@@ -3,7 +3,7 @@
 
 ## 目录
 
-- [Android](#Android)
+- [resume_CN_photo（带图片的中文简历）](#resume_CN_photo（带图片的中文简历）)
     - [基础](#基础知识)
     - [进阶](#进阶)
     - [Gradle相关](#Gradle相关)
@@ -19,7 +19,7 @@
     - [应用发布](#应用发布)
     - [打包](#打包)  
     - [原生功能讲解](docs/android/AndroidNote/READMENote.md)    
-- [Java](#java)
+- [resume_CN_nophoto（不带图片的中文简历）](#resume_CN_nophoto（不带图片的中文简历）)
     - [基础](#基础)
     - [容器](#容器)
     - [并发](#并发)
@@ -44,9 +44,9 @@
     - [算法](#算法)
 
 
-## resume_CN_photo  带图片的中文简历
+## resume_CN_photo（带图片的中文简历）
 
-## resume_CN_nophoto  不带图片的中文简历
+## resume_CN_nophoto（不带图片的中文简历）
 
 ### 基础知识
 
