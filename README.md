@@ -3,7 +3,7 @@
 
 ## 目录
 
-- [resume_CN_photo（带图片的中文简历）](#resume_CN_photo（带图片的中文简历）)
+- [简历-有图片](#简历-有图片）)
     - [基础](#基础知识)
     - [进阶](#进阶)
     - [Gradle相关](#Gradle相关)
@@ -44,14 +44,16 @@
     - [算法](#算法)
 
 
-## resume_CN_photo（带图片的中文简历）
-
+## 简历-有图片
+resume_CN_photo
 ![image](https://github.com/AdaCoding123/Resume/assets/72744840/937b896a-25e5-40fd-a4e7-5df28b593e89)
 
 
 
 
-## resume_CN_nophoto（不带图片的中文简历）
+## （简历-无图片）
+resume_CN_photo
+
 ![image](https://github.com/AdaCoding123/Resume/assets/72744840/95b1f0b7-0f41-40dd-8b40-1452904a7ecb)
 
 
