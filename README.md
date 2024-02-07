@@ -46,23 +46,18 @@
 
 ## resume_CN_photo（带图片的中文简历）
 
+![image](https://github.com/AdaCoding123/Resume/assets/72744840/937b896a-25e5-40fd-a4e7-5df28b593e89)
+
+
+
+
 ## resume_CN_nophoto（不带图片的中文简历）
+![image](https://github.com/AdaCoding123/Resume/assets/72744840/95b1f0b7-0f41-40dd-8b40-1452904a7ecb)
+
+
 
 ### 基础知识
 
-* [Activity详细解析](docs/android/AndroidNote/Android基础/Activity详细解析.md)
-* [Service详细解析](docs/android/AndroidNote/Android基础/Service详细解析.md)
-* [IntentService详细解析](docs/android/AndroidNote/Android基础/IntentService详细解析.md)
-* [IntentService原理解析文章](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=401611665&idx=1&sn=9b6b1f2924d4adfe4e89a322ab53df9c&scene=21#wechat_redirect)
-* [ContentProvider实例详解](docs/android/AndroidNote/Android基础/ContentProvider实例详解.md)
-* [BroadcastReceiver详细解析](docs/android/AndroidNote/Android基础/BroadcastReceiver详细解析.md)
-* [Android异步任务机制之AsycTask](docs/android/AndroidNote/Android基础/Android异步任务机制之AsycTask.md)
-* [Handler,Looper,MessageQueue关系](docs/android/AndroidNote/Android基础/Handler,Looper,MessageQueue关系.md)
-* [Android-SQLite的基本使用](docs/android/AndroidNote/Android基础/Android-SQLite的基本使用.md)
-* [Android系统相机与相册的使用](docs/android/AndroidNote/Android基础/Android中相机与相册的详细使用.md)
-* [图片缓存原理](docs/android/AndroidNote/Android基础/图片缓存原理.md)
-* [Android数据存储的五种方式](docs/android/AndroidNote/Android基础/Android数据存储的五种方式.md)
-* [Android跟随手指移动的View](docs/android/AndroidNote/Android基础/Android跟随手指移动的view.md)
 * [RecyclerView的使用](docs/android/AndroidNote/Android基础/RecyclerView的简介.md)
 * [Android获取SHA1](docs/android/AndroidNote/Android基础/Android获取SHA1.md)
 * [Recyclerview和Listview的异同.md](docs/android/AndroidNote/Android进阶/Recyclerview和Listview的异同.md)
@@ -79,32 +74,7 @@
 
 * [Android 学习笔记核心篇](https://juejin.im/post/5c46db4ae51d4503834d8227)
 * [Android内存泄漏性能优化总结](docs/android/AndroidNote/内存性能.md)
-* [进程间通信详解](docs/android/AndroidNote/IPC.md)
-* [Android中的动画](docs/android/AndroidNote/Android进阶/Android中的动画.md)
-* [深入了解MVXX模式](docs/android/AndroidNote/Android进阶/深入了解MVXX模式.md)
-* [Android项目总结](docs/android/AndroidNote/Android进阶/Android项目总结.md)
-* [Android项目总结2](docs/android/AndroidNote/Android进阶/Android项目总结2.md)
-* [自定义RadioGroup](docs/android/AndroidNote/Android进阶/自定义RadioGroup.md)
-* [Android导入项目一直在Building的解决方案](docs/android/AndroidNote/Android进阶/AndroidStudio导入工程一直在Building的解决方案.md)
-* [基于TOTP的双向认证算法](docs/android/AndroidNote/Android进阶/基于OTP算法的双向认证.md)
-* [基于TOTP的双向认证算法](docs/android/AndroidNote/Android进阶/基于OTP算法的双向认证.md)
-* [Android 触控事件解析 - Mastering The Android Touch System 笔记](https://www.jianshu.com/p/c65da5e81afd)
-* [《Android 高性能编程》—— @IntDef 注解，减缓枚举的使用](https://blog.csdn.net/OneDeveloper/article/details/79973205)
-* [Android官网建议代码规范](https://source.android.com/source/code-style#java-language-rules)
-* [30多年编码经验总结成10条最佳实践](https://mp.weixin.qq.com/s?__biz=MzIyMjQ0MTU0NA==&mid=2247484524&idx=1&sn=5b2759e6d89f01e61d021545ca7556b9&chksm=e82c3d4bdf5bb45dd77227982931ede8229ee6910829253a57bb905e810c89bd3f0a162786e8&mpshare=1&scene=23&srcid=1023FjKcLWtRlcDpwEeeJnCN#rd)
-* [Android中利用异步来优化处理速度](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=401555104&idx=1&sn=501e6158e6eb26b4e86467be01fd290e&scene=21#wechat_redirect)
-* [三大图片缓存框架的对比](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547344&idx=2&sn=e3fa99b52055a37202634fe61a62d439&scene=21#wechat_redirect)
-* [SVG图片在Android中的应用](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548366&idx=1&sn=6cbdf8652ec139859d9be01444e1ad3b&chksm=f1180d33c66f8425a286de4fd5f03aa89308add3593529a91356439cb8c2f8542305561034c8&scene=21#wechat_redirect)
-* [携程App的网络性能优化实践](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547359&idx=1&sn=9f069a28f5dbe73fb6c241cfa1049571&scene=21#wechat_redirect)
-* [途牛插件化原理](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547401&idx=1&sn=e615735d600f987a7f769f7e278d0840&scene=21#wechat_redirect)
-* [Android分包原理](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547390&idx=1&sn=1fae14b1753e437a032640be81c475b8&scene=21#wechat_redirect)
-* [插件化实现的思想](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547660&idx=1&sn=d2764b282fdf1c1fdb629f9c2ca9b10f&scene=21#wechat_redirect)
-* [Android 7.0新特性总结](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548427&idx=1&sn=df9956d131a6da5f29292cd05a61b16e&chksm=f1180df6c66f84e0097eea33bba6abb125b6bcd6847720a7c481a85001a52ae2e4b1941690eb&scene=21#wechat_redirect)
-* [RecyclerView局部刷新的坑](http://blog.csdn.net/jdsjlzx/article/details/52893469)
-* [Android单元测试](https://tech.meituan.com/Android_unit_test.html)
-* [gradle 详解——你真的了解Gradle吗？](http://blog.csdn.net/u013132758/article/details/52355915)
-* [AndroidStudio-Gradle多渠道打包](http://stormzhang.com/devtools/2015/01/15/android-studio-tutorial6/)
-* [Android基础入门教程——8.1.1 Android中的13种Drawable小结 Part 1](http://blog.csdn.net/coder_pig/article/details/49006217)
+
 * [Android基础入门教程——8.1.2 Android中的13种Drawable小结 Part 2](http://blog.csdn.net/coder_pig/article/details/49008397)
 * [Android-Drawable高级用法](http://blog.csdn.net/lmj623565791/article/details/43752383)
 * [安卓开踩过的坑：你的 Bitmap 究竟占多大内存？](http://dev.qq.com/topic/591d61f56793d26660901b4e)
